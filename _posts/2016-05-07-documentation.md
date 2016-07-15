@@ -29,16 +29,16 @@ This process will host the theme as a **Project Page**. You can also download th
 
 Default theme will look like this
 
-![webjeda gatok jekyll theme](/images/webjeda-gatok-jekyll-theme-screenshot-1.png)
+![webjeda gatok jekyll theme]({{site.baseurl}}/images/webjeda-gatok-jekyll-theme-screenshot-1.png)
 
 Hover on the left side will open up a 3d effect sidebar
 
-![webjeda gatok jekyll theme sidebar](/images/webjeda-gatok-jekyll-theme-screenshot.jpg)
+![webjeda gatok jekyll theme sidebar]({{site.baseurl}}/images/webjeda-gatok-jekyll-theme-screenshot.jpg)
 
 
 This theme is responsive.
 
-![webjeda gatok responsive jekyll theme](/images/webjeda-gatok-jekyll-theme-screenshot-2.png)
+![webjeda gatok responsive jekyll theme]({{site.baseurl}}/images/webjeda-gatok-jekyll-theme-screenshot-2.png)
 {: .text-center}
 
 
