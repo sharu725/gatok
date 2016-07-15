@@ -28,7 +28,7 @@ Default theme will look like this
 
 ![webjeda gatok jekyll theme](/images/webjeda-gatok-jekyll-theme-screenshot-1.png)
 
-Hover on the left side will open up a 3d effect sidebar
+Hover on the left side for a 3d sidebar!
 
 ![webjeda gatok jekyll theme sidebar](/images/webjeda-gatok-jekyll-theme-screenshot.jpg)
 
