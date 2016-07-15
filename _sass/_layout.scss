@@ -1,0 +1,129 @@
+body{
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-color: #222;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=);
+	background-repeat: repeat;
+}
+
+
+img{
+    max-width: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.color-bar{
+        margin-left: -9px;
+        border: none;
+        font-size: 3px; 
+        width: 100%;
+        }
+
+.bar {
+    border: none;
+    display: inline-block;
+    width: 16.6667%;
+    margin-left: -1px;
+    padding: 0;
+}
+
+
+.bar1 {
+    border-top: 5px solid #3498db;
+}
+.bar2 {
+    border-top: 5px solid #e74c3c;
+}
+.bar3 {
+    border-top: 5px solid #2ecc71;
+}
+.bar4 {
+    border-top: 5px solid #f1c40f;
+}
+.bar5 {
+    border-top: 5px solid #95a5a6;
+}
+.bar6 {
+    border-top: 5px solid #9b59b6;
+}
+
+.page-content {
+    width: 60%;
+    margin: 0 auto;
+    border-left: 2px solid #4fba6f;
+    padding: 0 20px 0 20px;
+    box-shadow: -2px 0px 0px 0px rgba(24, 228, 33, 0.22);
+     @media screen and (max-width: $on-palm) {
+         width: 100%;
+         border: none;
+         box-shadow: none;
+         
+    }
+}
+
+
+
+.contents {
+    background-color: #fff;
+    min-height: 800px;
+    height: 100%;
+    width:100%;
+    border-left: 10px solid #f3f2f2;
+}
+
+.menu {
+    position: fixed;
+    height: 30px;
+    width: 14px;
+    background-image: url(/images/aayke.svg);
+    top: 50%;
+}
+
+.post-list {
+    list-style: none;
+}
+
+.meny {
+    padding: 20px;
+    overflow: auto;
+}
+
+.menu-ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.menu-header {
+    color:#fff; 
+    
+}
+
+.meny-li {
+    font-size: 22px;
+    line-height: 1.8;
+    color: #fff;
+}
+.meny-li:hover {
+    color: #3b97d3;
+}
+.headline {
+    display: inline;
+    line-height: 2;
+    font-size: 2.45em;
+    text-shadow: 0px 0px 1px;
+    
+    @media screen and (max-width: $on-palm) {
+        line-height: 1;
+        font-size: 1.8em;
+    }
+    
+}
+
+.mt20{
+    margin-top:20px;
+}
+.mb20{
+    margin-bottom:20px;
+}
+
