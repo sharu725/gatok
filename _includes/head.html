@@ -2,15 +2,20 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
- <style>
-          {% capture include_to_scssify %}
-          {% include main.scss %}
-          {% endcapture %}
-          {{ include_to_scssify | scssify }}
-  </style>
 
 {% seo %}
   
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+<!-- 3d menu js -->
+<script src="{{ "/js/meny.js" | prepend: site.baseurl }}"></script>
+
+         
+<style>
+          {% capture include_to_scssify %}
+          {% include main.scss %}
+          {% endcapture %}
+          {{ include_to_scssify | scssify }}
+</style>
 
 </head>
