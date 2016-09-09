@@ -38,7 +38,7 @@ sass:
 
 analytics: UA-71358787-1
 
-version: 0.8
+version: 1.0
 
 gems: [jekyll-paginate, jekyll-seo-tag]
 

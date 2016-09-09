@@ -48,3 +48,10 @@ Make changes to the **master** branch and create a pull request. Do not use **gh
 
 # License
 MIT License
+
+# Change Log
+<pre>
+Version 1.0 - Fixed flashing menubar and disqus by default.
+
+Version 0.8 - Initial release with 3D menu and minimal layout.
+</pre>

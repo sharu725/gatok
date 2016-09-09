@@ -1,0 +1,8 @@
+<!-- 3d menu js -->
+<script src="{{ "/js/meny.js" | prepend: site.baseurl }}"></script> 
+
+
+<!-- Script to load 3d menu -->
+<script>
+      var meny=Meny.create({menuElement:document.querySelector(".meny"),contentsElement:document.querySelector(".contents"),position:"left",height:200,width:230,angle:30,threshold:40,overlap:6,transitionDuration:"0.5s",transitionEasing:"ease",gradient:"rgba(0,0,0,0.20) 0%, rgba(0,0,0,0.65) 100%)",mouse:!0,touch:!0});
+</script> 
