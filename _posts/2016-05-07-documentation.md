@@ -50,8 +50,11 @@ Make changes to the **master** branch and create a pull request. Do not use **gh
 MIT License
 
 # Change Log
-<pre>
-Version 1.0 - Fixed flashing menubar and disqus by default.
 
-Version 0.8 - Initial release with 3D menu and minimal layout.
-</pre>
+### Version 1.0
+* Fixed flashing menubar. 
+* SEO optimization. Disqus is installed by default. 
+* Compression is removed. Add ```layout: compress``` to the front matter of default layout to compress html.
+
+### Version 0.8
+* Initial release with 3D menu and minimal layout.

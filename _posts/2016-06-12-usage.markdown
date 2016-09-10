@@ -9,11 +9,8 @@ Use the guide to prepare good looking posts! The theme has a sidebar which uses 
 ## CSS elements
 Since the theme is based on bootstrap, you can use bootstrap classes. Take a look at [elements](/elements) page.
 
-## Compressed files
-All the static files are compressed to enhance the loading speed. Remove ``layout: compress`` from **default.html** to uncompress html. Remove 
+## Site name
+By default the site name is **Webjeda Gatok**. Change it in ``_congig.yml`` file by changing ``title: Webjeda Gatok``.
 
-{% highlight yml %}
-sass:
-  style: compressed
-{% endhighlight %}
-from *_config.yml* to uncompress css(scss) files.
+## Logo
+I have designed the logo which suits for this site. You either use other logo or keep the original. I do not claim the copyrights :)
