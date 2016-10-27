@@ -10,7 +10,7 @@ Use the guide to prepare good looking posts! The theme has a sidebar which uses 
 Since the theme is based on bootstrap, you can use bootstrap classes. Take a look at [elements](/elements) page.
 
 ## Site name
-By default the site name is **Webjeda Gatok**. Change it in ``_congig.yml`` file by changing ``title: Webjeda Gatok``.
+By default the site name is **Webjeda Gatok**. Change it in ``_config.yml`` file by changing ``title: Webjeda Gatok``.
 
 ## Logo
 I have designed the logo which suits for this site. You either use other logo or keep the original. I do not claim the copyrights :)
