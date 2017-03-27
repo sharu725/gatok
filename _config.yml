@@ -39,7 +39,7 @@ sass:
 analytics: UA-83979019-1
 
 version: 1.0
-
+ 
 gems: [jekyll-paginate, jekyll-seo-tag]
 
   
