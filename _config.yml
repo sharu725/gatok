@@ -16,7 +16,7 @@ url: "http://webjeda.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-baseurl: /gatok
+baseurl: 
 permalink: /:title/
 
 disqus-shortname: webjeda-demo
