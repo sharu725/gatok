@@ -14,4 +14,4 @@ layout: default
 </article>
 <br />
 <br />
-{% include disqus.html %}
+{% if site.disqus-shortname %}{% include disqus.html %}{% endif %}

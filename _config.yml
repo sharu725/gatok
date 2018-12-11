@@ -19,7 +19,7 @@ markdown: kramdown
 baseurl: 
 permalink: /:title/
 
-disqus-shortname: bdkk
+disqus-shortname: ohjungmin
 
 # collections: default: 태그별 포스트 목록 만들기 위한 명령어
 # jekyll은 직접적으로 tagging을 지원하지 않는다.
