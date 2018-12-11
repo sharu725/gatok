@@ -1,5 +1,5 @@
 ---
 name: opensource
 title: 오픈소스
-image: images/donkatsu.jpg
+image: /images/donkatsu.jpg
 ---
