@@ -21,6 +21,21 @@ permalink: /:title/
 
 disqus-shortname: bdkk
 
+# collections: default: 태그별 포스트 목록 만들기 위한 명령어
+# jekyll은 직접적으로 tagging을 지원하지 않는다.
+collections:
+  tag:
+    output: true
+    permalink: /tags/:path/
+    
+default:
+  -scope:
+    path: ''
+    type: tags
+   values:
+    layout: tag
+# _tag 디렉토리 안에 있는 파일목록 수집하여 /tag/...로 서비스되도록 html파일을 생성하라는 설정
+# 설정에는 _가 없고, 디렉토리 이름은 _가 붙습니다.
 
 #compress.html
 compress_html:
