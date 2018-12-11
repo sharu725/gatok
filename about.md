@@ -5,7 +5,9 @@ permalink: /about/
 ---
 <div class="mt50"></div>
 ![aboutimg macaron]({{site.baseurl}}/images/aboutimg.jpg)
+
 안녕하세요.
+
 드디어 여러번 시행착오 끝에 블로그가 생겼습니다.
 
 오픈소스이지만 전체적으로 이해하기는 어려웠습니다.
@@ -23,6 +25,7 @@ permalink: /about/
 
 그날이 오기를 희망합니다.
 
+---
 
 ###소개
 
@@ -37,3 +40,5 @@ permalink: /about/
 **2018 JSL인재개발원 ICT소프트웨어 전문가과정 이수**
 
 **현재는 청주시 거주**
+
+---
