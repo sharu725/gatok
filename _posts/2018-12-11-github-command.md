@@ -12,9 +12,14 @@ title: "github 명령어"
 
 
 #### **기초 명령어**
+
+- - -
+
 git version --버전보기
 
 **1.사용자등록**
+
+- - -
 
 git config --global user.name "사용자 이름"
 
@@ -24,6 +29,9 @@ git config --global user.eamil 이메일
 
 
 **2.저장소만들기**
+
+- - -
+
 
 git init -- 현재 디렉토리에 작업을 시작한다. 실행시 .git 디렉토리 생성됨
 
@@ -41,6 +49,8 @@ git clone 주소 (github 홈페이지에서 복사하여 붙여넣기)
 
 
 **3.브랜치만들기**
+
+_ _ _
 
 git branch 브랜치명 -- 브랜치 생성
 
@@ -65,6 +75,9 @@ git branch -d 브랜치명 -- 브랜치 삭제
 
 
 **4.과거로 돌리기**
+
+* * *
+
 
 git log -- 커밋 로그 확인한다.
 
