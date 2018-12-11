@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <div class="mt50"></div>
-
+![aboutimg macaron]({{site.baseurl}}/images/aboutimg.jpg)
 안녕하세요.
 드디어 여러번 시행착오 끝에 블로그가 생겼습니다.
 
