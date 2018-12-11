@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 프로개발자가 되기 위한 연구소
+title: 개발연구소
 email: bdkk0209@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Gatok is a minimal jekyll theme with a 3d menu bar. 
