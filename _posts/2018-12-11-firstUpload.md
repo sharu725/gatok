@@ -1,4 +1,5 @@
 ---
+name: ohjungmin
 layout: post
 title: "나의 첫글"
 

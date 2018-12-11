@@ -1,4 +1,5 @@
 ---
+name : ohjungmin
 layout: post
 title: "github 명령어"
 
