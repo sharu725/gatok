@@ -5,17 +5,29 @@ permalink: /about/
 ---
 <div class="mt50"></div>
 
-Webjeda Gatok is a Bootstrap based theme. Any Bootstrap element can be used in the theme.
+안녕하세요.
+드디어 여러번 시행착오 끝에 블로그가 생겼습니다.
+오픈소스이지만 전체적으로 이해하기는 어려웠습니다.
+하지만 흐름? 느낌?정도는 파악했습니다.
+고급개발자가 되기까지 노력한다면 지금 보다 소스이해가 수월하겠죠.
+아직 개발자의 일을 잡아본 일이 없기때문에, 뭔가를 만들고 싶은 일도 없습니다.
+하지만 일을 시작한다면
+뭔가 한개쯤은 스스로 해보고 프로젝트 또는 발전방향이 생길 것 같습니다.
+그날이 오기를 희망합니다.
 
-The name Gatok is a short form of [Ghatotkacha](https://en.wikipedia.org/wiki/Ghatotkacha){: target="_blank"} who was a monster in the Hindu mythology Mahabharatha.
+####소개
+1987년생
+2005~2010 경영학부 졸업
+2011~2014 육군장교 근무
+2015~2016 일본 워킹홀리데이 호텔 아릉바이트
+2018 JSL인재개발원 ICT소프트웨어 전문가과정 이수
 
-![Gatok Jekyll Theme]({{site.baseurl}}/images/gatok.jpg)
+bdkk0209@hotmail.com
 
-He is someone you shouldn't be messing with!
-![Gatok Jekyll Theme]({{site.baseurl}}/images/gatok-2.jpg)
+#####-현재 집안일 돕는 중
+**마카롱 만들기**
+![macaron]({{site.baseurl}}/images/macaron.jpg)
 
+**돈까스 만들기**
+![donkatsu]({{site.baseurl}}/images/donkatsu.jpg)
 
-[**Watch his story**](https://www.youtube.com/watch?v=6gYv6S1dCqs){: target="_blank"}
-
-
-Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
